@@ -1,5 +1,5 @@
 
-name: Poetry cache
+name: Poetry cache example
 
 on:
   push:
