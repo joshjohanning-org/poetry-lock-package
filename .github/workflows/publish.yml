@@ -1,4 +1,4 @@
-name: cache example
+name: publish
 
 on:
   release:

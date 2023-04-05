@@ -17,4 +17,6 @@ jobs:
       with:
         python-version: '3.9'
         cache: 'poetry'
+        cache-dependency-path: |
+          ./poetry.lock
     - run: poetry install
