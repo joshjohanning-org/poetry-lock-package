@@ -3,7 +3,7 @@
 [[package]]
 name = "attrs"
 version = "22.1.0"
-description = "Classes Without Boilerplate"
+description = "Classes Without Boilerplate---"
 category = "dev"
 optional = false
 python-versions = ">=3.5"
